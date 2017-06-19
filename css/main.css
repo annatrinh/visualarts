@@ -1,0 +1,167 @@
+.wrap {
+  margin: 0 auto;
+  width: 90%;
+  font-family: arial;
+}
+
+nav {
+  height: 30px;
+}
+
+.logo {
+  float: left;
+  font-size: 20px;
+}
+
+.logo a {
+  text-decoration: none;
+  color: black;
+}
+
+.logo a:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.search {
+  float: right;
+}
+
+.search input {
+  width: 150px;
+  border: none;
+}
+
+header {
+  text-align: center;
+}
+header img {
+  height: 85px;
+  width: 85px;
+  border-radius: 65px;
+}
+
+header h1 {
+  font-size: 60px;
+  font-family: 'Playfair Display', serif;
+}
+
+.main h3 {
+  text-align: center;
+  font-weight: normal;
+  color: #636261;
+}
+
+.main hr {
+  width: 90px;
+  border-bottom: solid 1px #CBAA59;
+  margin-bottom: 50px;
+}
+
+.main p {
+  margin: 0 200px 50px 200px;
+  line-height: 28px;
+  color: #636261;
+}
+
+.main img {
+  display: block;
+  margin: auto;
+  margin-bottom: 50px;
+}
+
+.main blockquote {
+  font-family: 'Dancing Script', cursive;
+  text-align: center;
+  font-size: 40px;
+  margin: 75px 225px 75px 225px;
+}
+
+span.name {
+  font-family: arial;
+  font-size: 30px;
+}
+
+.collage {
+  text-align: center;
+}
+
+.leftpic, .rightpics {
+  display: inline-block;
+}
+
+.rightpics .top {
+  margin-bottom: 7px;
+}
+
+.fa-heart {
+  color: #DD5F4E;
+}
+
+.box textarea {
+  width: 700px;
+  margin: 20px 200px 0 200px;
+  height: 120px;
+  font-size: 13px;
+  padding: 5px 0 0 10px;
+  border: solid 1px #B9B4B4;
+  border-radius: 5px;
+}
+
+.cta {
+  text-align: center;
+  height: 40px;
+}
+.cta ul {
+  list-style: none;
+  display: inline-block;
+  float: left;
+  margin: 0 80px 10px 163px;
+}
+
+.cta li {
+  display: inline-block;
+}
+
+.cta span {
+  float: right;
+  margin: 0 213px 10px 0;
+}
+
+.cta a {
+  text-decoration: none;
+  color: #787575;
+  font-size: 11px;
+}
+
+.cta a:hover {
+  text-decoration: underline;
+}
+
+footer {
+  height: 200px;
+  background-color: #F1EEEE;
+  width: 100%;
+  font-family: arial;
+  color: #636261;
+  margin-bottom: 0;
+}
+
+footer div {
+  display: inline-block;
+}
+
+.leftfooter {
+  margin: 75px 115px 50px 255px;
+  line-height: 35px;
+}
+
+.rightfooter {
+  margin: 75px 150px 50px 200px;
+  line-height: 35px;
+}
+
+footer a {
+  text-decoration: none;
+  color: #636261;
+}
